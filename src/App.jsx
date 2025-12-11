@@ -33,7 +33,7 @@ export default function miApp(){
 
     return(
         <div>
-            <h1>Hola</h1>
+            <h1>Hola , este es mi primer proyecto</h1>
             <h1>Bienvenido</h1>
             <h1>Ingresa tu cuenta</h1>
             <div className='contenedor'>
